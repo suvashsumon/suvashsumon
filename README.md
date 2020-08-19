@@ -5,9 +5,8 @@
 
   
   
-👨‍💻 21 Years old Pentester 
+👨‍💻 21 Years old Developer 
 
-🚧 **Current Project:** > Spam Bot
 
 ⭐️ From [Swagkarna](https://github.com/suvashsumon)
 ### Contact ME   :     suvashkumar.naogaon@gmail.com
