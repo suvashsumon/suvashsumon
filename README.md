@@ -8,7 +8,7 @@
 👨‍💻 21 Years old Developer 
 
 
-⭐️ From [Swagkarna](https://github.com/suvashsumon)
+⭐️ From [Suvash Kumar](https://github.com/suvashsumon)
 ### Contact ME   :     suvashkumar.naogaon@gmail.com
 
 
