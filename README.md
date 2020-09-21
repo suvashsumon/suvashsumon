@@ -15,4 +15,4 @@ Contact ME   :     suvashkumar.naogaon@gmail.com
 
 
 
-<img align='middle' src="https://github-readme-stats.vercel.app/api?username=suvashsumon&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=suvashsumon&show_icons=true">
