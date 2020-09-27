@@ -8,8 +8,7 @@
 
 Skills : Python, Java, C/C++, Javascript, PHP  
 Tools : Git, Github, Bitbucket, VS Code
-
-⭐️ From [Suvash Kumar](https://github.com/suvashsumon)  
+  
 Website : www.suvashkumar.xyz  
 Contact ME   :     suvashkumar.naogaon@gmail.com
 
