@@ -6,7 +6,7 @@
   
 👨‍💻 21 Years old Developer and Blogger
 
-Skills : Python, Java, C/C++, Javascript, PHP  
+Skills : Python, Java, C/C++, Javascript, PHP, MongoDB, MySQL, PostgreSQL, Sqlite  
 Tools : Git, Github, Bitbucket, VS Code
   
 Website : www.suvashkumar.xyz  
