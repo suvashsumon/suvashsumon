@@ -4,7 +4,7 @@
 
   
   
-👨‍💻 21 Years old Developer and Blogger
+👨‍💻 22 Years old Developer and Blogger
 
 Skills : Python, Java, C/C++, Javascript, PHP, MongoDB, MySQL, PostgreSQL, Sqlite  
 Tools : Git, Github, Bitbucket, VS Code
