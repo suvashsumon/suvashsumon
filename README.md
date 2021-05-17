@@ -13,7 +13,7 @@ Website : www.suvashkumar.xyz
 Contact ME   :     suvashkumar.naogaon@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suvashsumon&layout=compact)](https://github.com/suvashsumon/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suvashsumon)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=suvashsumon&show_icons=true" style="text-align: center;">
 
