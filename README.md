@@ -6,6 +6,9 @@
   
 👨‍💻 22 Years old Developer and Blogger
 
+## Latest Blog posts
+[গিট ব্যবহার করে উবুন্টু সার্ভারে ফাইল আপলোড](https://suvashsumon.xyz/post/deploy-site-to-server-using-git/)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -22,7 +25,7 @@
 ![](https://img.shields.io/badge/Tools-Hereku-informational?style=flat&logo=hereku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
   
-Website : www.suvashkumar.xyz  
+Website : www.suvashsumon.xyz  
 Contact ME   :     suvashkumar.naogaon@gmail.com
 
 
