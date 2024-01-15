@@ -4,7 +4,7 @@
 
   
   
-👨‍💻 23 Years old Developer and Blogger
+👨‍💻 25 Years old Developer and Blogger
 
 ## Latest Blog posts
 * [Install XAMPP, Composer on Ubuntu 20.04 LTS or Newer](https://www.suvashsumon.xyz/post/install-xampp-composer-on-ubuntu/)
@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
  
 ## Contact With Me
-Website : www.suvashsumon.xyz  
+Website : suvashkumar.netlify.app
 Contact ME   :     suvashkumarsumon@yahoo.com
 
 
