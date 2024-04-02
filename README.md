@@ -4,7 +4,7 @@
 
 Currently, I am doing research in the field of Deep Learning and Myoelectric Pattern Recognition (EMG).
   
-👨‍💻 25 Years old Developer and Blogger
+👨‍💻 25 years old graduate student
 
 ## Latest Blog posts
 * [Install XAMPP, Composer on Ubuntu 20.04 LTS or Newer](https://www.suvashsumon.xyz/post/install-xampp-composer-on-ubuntu/)
