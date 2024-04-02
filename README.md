@@ -2,7 +2,7 @@
 ### Hi there I'm suvashsumon (Suvash Kumar):
 
 
-  
+Currently, I am doing research in the field of Deep Learning and Myoelectric Pattern Recognition (EMG).
   
 👨‍💻 25 Years old Developer and Blogger
 
@@ -32,8 +32,8 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
  
 ## Contact With Me
-Website : suvashkumar.netlify.app
-Contact ME   :     suvashkumarsumon@yahoo.com
+Website: suvashkumar.netlify.app
+Contact ME:     suvashkumarsumon@yahoo.com
 
 
 
