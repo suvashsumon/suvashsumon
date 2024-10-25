@@ -2,7 +2,7 @@
 ### Hi there I'm suvashsumon (Suvash Kumar):
 
 
-Currently, I am doing research in the field of ***Deep Learning*** and ***Myoelectric Pattern Recognition (EMG-PR)***.
+Currently, I am seeking a Software Engineer position. Also, I am doing research in the fields of ***Deep Learning*** and ***Myoelectric Pattern Recognition (EMG-PR)***.
   
 👨‍💻 25 years old graduate student
 
