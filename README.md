@@ -4,7 +4,7 @@
 
 Currently, I am seeking a ***Software Engineer*** position. Also, I am doing research in the fields of ***Deep Learning*** and ***Myoelectric Pattern Recognition (EMG-PR)***.
   
-👨‍💻 Fresh graduate with a bit of experience in the field of software engineering, especially backend development with ***Spring Boot*** and ***Laravel***.
+👨‍💻 Fresh graduate with 2+ years of experience in the field of software engineering, especially backend development with ***Spring Boot*** and ***Laravel***.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
